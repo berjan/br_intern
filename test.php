@@ -6,4 +6,8 @@
  */
 echo "hoi Emil";
 echo "henk";
+echo "test again";
+
+echo "hoi";
+echo "nog een keer hoi"
 ?>
